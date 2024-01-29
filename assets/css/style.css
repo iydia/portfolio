@@ -1451,7 +1451,7 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color: #fff;
+  color: dark grey;
   padding: 25px 0;
   background: #000000;
 }
@@ -1465,5 +1465,5 @@ footer .credits {
 }
 
 footer .credits a {
-  color: #fff;
+  color: grey;
 }
